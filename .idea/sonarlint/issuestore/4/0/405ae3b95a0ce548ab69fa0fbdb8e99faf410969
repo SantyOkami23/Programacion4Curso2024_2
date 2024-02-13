@@ -1,0 +1,44 @@
+
+d
+java:S1192"GDefine a constant instead of duplicating this literal " bytes" 7 times.(†ì¬÷8ŠâøÚ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿñÒà8ŒâøÚ1
+X
+java:S1854";Remove this useless assignment to local variable "inicial".(¶º¤¶8âøÚ1
+Y
+java:S1854"<Remove this useless assignment to local variable "estatura".(ğ€Şä8âøÚ1
+W
+java:S1854":Remove this useless assignment to local variable "precio".(–ÀëÒ8âøÚ1
+b
+java:S1854"@Remove this useless assignment to local variable "numeroGrande".(¶Éó…üÿÿÿÿ8âøÚ1
+\
+java:S1854
+":Remove this useless assignment to local variable "numero".(ä£¦ùÿÿÿÿ8âøÚ1
+\
+java:S1854	":Remove this useless assignment to local variable "codigo".(›öùÂıÿÿÿÿ8ŸâøÚ1
+Z
+java:S1854"8Remove this useless assignment to local variable "edad".(¶Å£áûÿÿÿÿ8ŸâøÚ1
+K
+java:S1481")Remove this unused "edad" local variable.(¶Å£áûÿÿÿÿ8 âøÚ1
+M
+java:S1481	"+Remove this unused "codigo" local variable.(›öùÂıÿÿÿÿ8¡âøÚ1
+M
+java:S1481
+"+Remove this unused "numero" local variable.(ä£¦ùÿÿÿÿ8¡âøÚ1
+S
+java:S1481"1Remove this unused "numeroGrande" local variable.(¶Éó…üÿÿÿÿ8¢âøÚ1
+H
+java:S1481"+Remove this unused "precio" local variable.(–ÀëÒ8¢âøÚ1
+J
+java:S1481"-Remove this unused "estatura" local variable.(ğ€Şä8¢âøÚ1
+I
+java:S1481",Remove this unused "inicial" local variable.(¶º¤¶8£âøÚ1
+J
+java:S1481"-Remove this unused "esCierto" local variable.(®ÇÆà8£âøÚ1
+G	java:S106"+Replace this use of System.out by a logger.(¡¢ˆØ8¦âøÚ1
+G	java:S106"+Replace this use of System.out by a logger.(†ì¬÷8§âøÚ1
+L	java:S106"+Replace this use of System.out by a logger.(ñŒ³¨øÿÿÿÿ8©âøÚ1
+G	java:S106"+Replace this use of System.out by a logger.(¸ÄÇ²8ªâøÚ1
+L	java:S106"+Replace this use of System.out by a logger.(µ¿¦¯úÿÿÿÿ8µâøÚ1
+L	java:S106"+Replace this use of System.out by a logger.(Šûîûÿÿÿÿ8·âøÚ1
+F	java:S106"+Replace this use of System.out by a logger.(µÍôs8¹âøÚ1
+G	java:S106"+Replace this use of System.out by a logger.( ÎŒ§8»âøÚ1
