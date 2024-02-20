@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class EjemploExpresionesAreaCirculo10 {
     private double radio;
-
-    // Constructor
     public EjemploExpresionesAreaCirculo10(double radio) {
         this.radio = radio;
     }
@@ -19,7 +17,7 @@ public class EjemploExpresionesAreaCirculo10 {
     public void mostrarInformacion() {
         System.out.println("Círculo:");
         System.out.println("Radio: " + radio);
-        System.out.println("Área: " + calcularArea());
+        System.out.println("area: " + calcularArea());
     }
 
     // Método main

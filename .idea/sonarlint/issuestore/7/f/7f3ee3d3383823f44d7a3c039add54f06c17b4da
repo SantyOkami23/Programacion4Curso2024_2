@@ -1,0 +1,11 @@
+
+h
+java:S1192"KDefine a constant instead of duplicating this literal "Su IMC es " 4 times.(Ê±Ú©8ş±ßÃÜ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×§£”8²ßÃÜ1
+G	java:S106"+Replace this use of System.out by a logger.(ôèÖ¤8—²ßÃÜ1
+G	java:S106
+"+Replace this use of System.out by a logger.(İ×ç8˜²ßÃÜ1
+G	java:S106"+Replace this use of System.out by a logger.(Ê±Ú©8š²ßÃÜ1
+L	java:S106"+Replace this use of System.out by a logger.(Å—½çüÿÿÿÿ8›²ßÃÜ1
+L	java:S106"+Replace this use of System.out by a logger.(­¸ÿ¤şÿÿÿÿ8²ßÃÜ1
+G	java:S106"+Replace this use of System.out by a logger.(©Øûé8Ÿ²ßÃÜ1
