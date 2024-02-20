@@ -37,12 +37,8 @@ Nsrc/main/java/ciaf/prograIII/clasesintaxis01/EjemploOperadorCondicional08.java
 Msrc/main/java/ciaf/prograIII/clasesintaxis01/EjemploEstructurasControl09.java,d\b\db31a07f734826015e2ce7340fb57fa549232eb8
 Ç
 Rsrc/main/java/ciaf/prograIII/clasesintaxis01/EjemploExpresionesAreaCuadrado11.java,2\9\29ea0c0b2b9770e968d4d29a0a1ca10bf8e2ab0f
-}
-Msrc/main/java/ciaf/prograIII/clasesintaxis01/ejerciciosclase01/Triangulo.java,b\d\bd8e37384822ef919caa0425e4f9804603845942
 |
 Lsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/EjemploSimple1.java,4\e\4eb05966723e2c6b600624e195bbe0c645d6991f
-}
-Msrc/main/java/ciaf/prograIII/claseciclosycondicionales02/EjemploMatriz02.java,6\d\6d308680734e74bbbb03eea9265448b52c800f2a
 w
 Gsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/ClimaApp3.java,3\d\3d0fe779c83daaacf31b32df62268f3a50fc4d95
 |
@@ -51,12 +47,8 @@ Lsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/ListaDeTareas4.java,a
 Lsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/EjemploMatriz2.java,2\0\2074661af43aa1bd9b6591cbe8fc59eaad9e7342
 Ñ
 Tsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/CalculadoraDescuentos5.java,2\9\29a9f36679e753c112962804a459dc2a39254383
-t
-Dsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/Menu06.java,3\b\3b9d7cfb09c885904afb31107085b7e177590b4d
 s
 Csrc/main/java/ciaf/prograIII/claseciclosycondicionales02/Menu6.java,6\a\6a8ef16c276342aa2f5aa58d78fb4e25861529be
-Ä
-Psrc/main/java/ciaf/prograIII/claseciclosycondicionales02/TablaDeMultiPlicar.java,0\2\02ed7a04547e0de056d326f09575b16c5b53229d
 Å
 Qsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/TablaDeMultiPlicar7.java,0\b\0bab1ee85caf9a3df740c19ed2247989fb5026b0
 x
