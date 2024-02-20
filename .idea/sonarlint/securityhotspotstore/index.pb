@@ -61,3 +61,5 @@ Msrc/main/java/ciaf/prograIII/claseciclosycondicionales02/VerificarPrimo9.java,
 Nsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/AdivinarNumero10.java,5\1\51a3678e1cce1416b56eb676a61dc7ca338e50c4
 ’
 bsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/ejerciciosclase02/ResolverEjercicios.java,d\f\dfc7c6d3a677464968736a3a5cf74c77d5345470
+„
+Tsrc/main/java/ciaf/prograIII/claseciclosycondicionales02/EjemploTiendaProductos.java,d\9\d9d3742b1fdd522f097e37732736d864e4aa221d

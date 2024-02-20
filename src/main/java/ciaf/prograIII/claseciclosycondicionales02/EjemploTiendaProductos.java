@@ -1,9 +1,6 @@
 package ciaf.prograIII.claseciclosycondicionales02;
 
-
-
-
-public class EjemploSimple1 {
+public class EjemploTiendaProductos {
     // Definición de productos con sus respectivas restricciones de edad
     private static String producto1 = "Laptop";
     private static Integer restriccionEdad1 = null; // No hay restricciones de edad para la laptop
