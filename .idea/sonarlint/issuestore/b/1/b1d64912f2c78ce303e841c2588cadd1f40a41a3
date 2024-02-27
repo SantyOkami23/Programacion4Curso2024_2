@@ -1,0 +1,17 @@
+
+p
+java:S1192 "NDefine a constant instead of duplicating this literal "El elemento '" 4 times.(°èÍÔûÿÿÿÿ8·ý”ÞÞ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éØ©Þÿÿÿÿÿ8Àý”ÞÞ1
+G	java:S106"+Replace this use of System.out by a logger.(˜¿ì8ˆþ”ÞÞ1
+L	java:S106"+Replace this use of System.out by a logger.(¥±óýþÿÿÿÿ8þ”ÞÞ1
+G	java:S106"+Replace this use of System.out by a logger.(Ù¹¨€8þ”ÞÞ1
+L	java:S106 "+Replace this use of System.out by a logger.(°èÍÔûÿÿÿÿ8”þ”ÞÞ1
+L	java:S106""+Replace this use of System.out by a logger.(ÊêÂ‚ÿÿÿÿÿ8–þ”ÞÞ1
+L	java:S106&"+Replace this use of System.out by a logger.(“§˜êÿÿÿÿÿ8—þ”ÞÞ1
+G	java:S106)"+Replace this use of System.out by a logger.(ÏŠàê8œþ”ÞÞ1
+G	java:S106+"+Replace this use of System.out by a logger.(Ð´Š8Ÿþ”ÞÞ1
+G	java:S1060"+Replace this use of System.out by a logger.(– åâ8®þ”ÞÞ1
+L	java:S1064"+Replace this use of System.out by a logger.(¤µãØùÿÿÿÿ8žî¡ÞÞ1
+L	java:S1067"+Replace this use of System.out by a logger.(öÕ‡Ÿýÿÿÿÿ8 î¡ÞÞ1
+G	java:S1069"+Replace this use of System.out by a logger.(…¾ßú8¢î¡ÞÞ1
+G	java:S106>"+Replace this use of System.out by a logger.(É—Ã°8£î¡ÞÞ1
