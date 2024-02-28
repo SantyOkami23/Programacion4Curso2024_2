@@ -71,8 +71,6 @@ z
 Jsrc/main/java/ciaf/prograIII/clasearreglos03/EjemploArrayListString05.java,b\1\b1d64912f2c78ce303e841c2588cadd1f40a41a3
 r
 Bsrc/main/java/ciaf/prograIII/clasearreglos03/EjemploHashMap06.java,5\0\5069a5bde7824f2a0b9fdc1f605ab6d0979a872e
-p
-@src/main/java/ciaf/prograIII/clasearreglos03/EjemploHashset.java,6\9\69c0d58a47bc7272e397d639427058e6a18a1f45
 r
 Bsrc/main/java/ciaf/prograIII/clasearreglos03/EjemploHashset07.java,2\e\2edaa0b74d1c386d4be75bb5b3fd5ef19136549c
 v

@@ -1,14 +1,14 @@
 
 k
-java:S1192 "NDefine a constant instead of duplicating this literal "El elemento '" 3 times.(Äƒ»Û8´ûĞŞŞ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éØ©Şÿÿÿÿÿ8¸ûĞŞŞ1
-L	java:S106"+Replace this use of System.out by a logger.(ş«©çÿÿÿÿÿ8ĞüĞŞŞ1
-G	java:S106"+Replace this use of System.out by a logger.(É‘ãå8ÔüĞŞŞ1
-L	java:S106"+Replace this use of System.out by a logger.(ß©²´ıÿÿÿÿ8ÕüĞŞŞ1
-G	java:S106 "+Replace this use of System.out by a logger.(Äƒ»Û8ØüĞŞŞ1
-G	java:S106""+Replace this use of System.out by a logger.(Šş’®8ÙüĞŞŞ1
-F	java:S106&"+Replace this use of System.out by a logger.(¸ü‚`8ÚüĞŞŞ1
+java:S1192 "NDefine a constant instead of duplicating this literal "El elemento '" 3 times.(Äƒ»Û8ÏÍçŞ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éØ©Şÿÿÿÿÿ8ÕÍçŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ş«©çÿÿÿÿÿ8©ŸÍçŞ1
+G	java:S106"+Replace this use of System.out by a logger.(É‘ãå8¯ŸÍçŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ß©²´ıÿÿÿÿ8±ŸÍçŞ1
+G	java:S106 "+Replace this use of System.out by a logger.(Äƒ»Û8·ŸÍçŞ1
+G	java:S106""+Replace this use of System.out by a logger.(Šş’®8ºŸÍçŞ1
+F	java:S106&"+Replace this use of System.out by a logger.(¸ü‚`8¼ŸÍçŞ1
 F	java:S106)"+Replace this use of System.out by a logger.(†¨Í
-8ŞüĞŞŞ1
-L	java:S106+"+Replace this use of System.out by a logger.(ÛÌø²ûÿÿÿÿ8àüĞŞŞ1
-L	java:S106/"+Replace this use of System.out by a logger.(ßË‡ğúÿÿÿÿ8áüĞŞŞ1
+8ÂŸÍçŞ1
+L	java:S106+"+Replace this use of System.out by a logger.(ÛÌø²ûÿÿÿÿ8ÅŸÍçŞ1
+L	java:S106/"+Replace this use of System.out by a logger.(ßË‡ğúÿÿÿÿ8ÈŸÍçŞ1
