@@ -1,8 +1,5 @@
 package ciaf.prograIII.conceptospoo04.abstraccion;
 
-
-
-
 // Clase Poligono que extiende la clase abstracta Forma
 public class Poligono extends Forma {
     // Atributos comunes a todas las formas

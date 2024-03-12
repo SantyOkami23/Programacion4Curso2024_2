@@ -20,9 +20,7 @@ public class EjerciciosPropuestos {
 
       4. Eliminar duplicados:
       Escribir un programa que elimine los elementos duplicados de una lista.
-
-      5. Eliminar elementos impares:
-      Escribir un programa que elimine todos los elementos impares de una lista.
+ un programa que elimine todos los elementos impares de una lista.
 
 
       Ejercicios de HashMap:

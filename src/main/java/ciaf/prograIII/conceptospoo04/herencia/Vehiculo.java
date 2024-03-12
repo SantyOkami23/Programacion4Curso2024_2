@@ -7,14 +7,6 @@ public class Vehiculo {
     private String modelo;
     private int ano;
 
-    // Constructor
-    public Vehiculo(String marca, String modelo, int ano) {
-        this.marca = marca;
-        this.modelo = modelo;
-        this.ano = ano;
-    }
-
-    // Métodos getters y setters
     public String getMarca() {
         return marca;
     }
@@ -38,6 +30,18 @@ public class Vehiculo {
     public void setAno(int ano) {
         this.ano = ano;
     }
+
+
+
+    // Constructor
+
+    public Vehiculo(String marca, String modelo, int ano) {
+        this.marca = marca;
+        this.modelo = modelo;
+        this.ano = ano;
+    }
+    // Métodos getters y setters
+
 
     // Métodos comunes a todos los vehículos
     public void acelerar() {
