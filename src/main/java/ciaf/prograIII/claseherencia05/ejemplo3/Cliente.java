@@ -6,8 +6,10 @@ public class Cliente extends Usuario {
     double totalCompras;
 
     // Constructor
+
+
     public Cliente(String nombre, String correo, int idCliente, double totalCompras) {
-        super(nombre, correo); // Llama al constructor de la superclase Usuario
+        super(nombre, correo);
         this.idCliente = idCliente;
         this.totalCompras = totalCompras;
     }

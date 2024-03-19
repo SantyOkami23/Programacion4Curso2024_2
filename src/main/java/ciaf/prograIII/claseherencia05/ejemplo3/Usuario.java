@@ -5,6 +5,8 @@ public class Usuario {
     String correo;
 
     // Constructor
+
+
     public Usuario(String nombre, String correo) {
         this.nombre = nombre;
         this.correo = correo;
