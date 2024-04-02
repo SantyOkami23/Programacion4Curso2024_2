@@ -18,5 +18,6 @@ public class Main {
         // El método privado no puede ser accedido desde esta clase
         objeto.metodoProtegido();
         objeto.metodoPredeterminado();
+
     }
 }

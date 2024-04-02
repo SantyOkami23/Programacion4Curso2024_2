@@ -1,6 +1,6 @@
 package ciaf.prograIII.clasepolimorfismo05.ejemplo1;
 
-import ciaf.prograIII.clasepolimorfismo05.ejemplo1.Producto;
+
 
 // Clase para representar una factura
 class Factura {

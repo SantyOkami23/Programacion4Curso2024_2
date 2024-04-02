@@ -1,4 +1,4 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä’¾«
-q
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ˆÁ™8Ë¾†ªã1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ä’¾«J$7b46a240-1ec8-48b0-a65e-f33bf4e448a5
+—
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(ˆÁ™8Ë¾†ªã1J$a8635a19-018e-4ded-9a1a-808fc646b0bf
