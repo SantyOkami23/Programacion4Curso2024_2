@@ -1,5 +1,7 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÇ¡úÿÿÿÿJ$cd5ce1ae-f924-4d03-8a43-159a7df49819
-r	java:S106	"+Replace this use of System.out by a logger.(¬®æªúÿÿÿÿ8ˆÈÎ†ê1J$0ba7e677-afa9-432d-a16c-bd6ab7cff04f
-r	java:S106"+Replace this use of System.out by a logger.(´ç•†úÿÿÿÿ8ŠÈÎ†ê1J$9f8c96cc-861d-4fad-8d62-df921d358313
-m	java:S106"+Replace this use of System.out by a logger.(½¸×±8ŒÈÎ†ê1J$cb7be6ac-587a-4098-ae3f-31a0e6b846a4
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÇ¡úÿÿÿÿJ$d3b85848-7eb0-4a69-9c7f-45e80456976a
+r	java:S106	"+Replace this use of System.out by a logger.(¬®æªúÿÿÿÿ8ˆÈÎ†ê1J$72bbc64d-e6ef-4512-a93c-d857d8ef07f3
+r	java:S106"+Replace this use of System.out by a logger.(´ç•†úÿÿÿÿ8ŠÈÎ†ê1J$f5a1c273-188b-4ca5-8243-baf62964aae8
+m	java:S106"+Replace this use of System.out by a logger.(½¸×±8ŒÈÎ†ê1J$27069cf8-6794-453b-bf35-fc2ccd76e9a6
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(É µ8É˜Å‹ê1

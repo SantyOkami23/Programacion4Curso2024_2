@@ -10,7 +10,7 @@ public class EjemploAbstraccionTI {
         servicioA.desconectar();
 
         servicioB.conectar();
-        System.out.println(servicioB.realizarPeticion("/recurso"));
+        System.out.println(servicioB.realizarPeticion("/recurso1"));
         servicioB.desconectar();
     }
 }
